@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:34:53.569Z",
+  "generated_at": "2026-10-07T19:39:31.092Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -204,6 +204,17 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-07T19:34:52.823Z",
       "last_pushed_at": "2026-10-07T19:34:52.823Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-07T19:39:30.463Z",
+      "last_pushed_at": "2026-10-07T19:39:30.463Z"
     }
   }
 }
